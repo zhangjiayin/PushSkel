@@ -8,10 +8,10 @@ android 里面配置aliyun 的key 和secret
     
 依赖里面添加
 ```
-    compile 'com.github.aliyun.push:push:0.1.2'
+    compile 'com.github.aliyun.push:push:0.1.8'
 ```
 在application的onCreate方法里面添加
 ```
- com.a00rz.push.Initializer initializer = new com.a00rz.push.Initializer();
+ com.github.aliyun.push.Initializer initializer = new com.github.aliyun.push.Initializer();
  initializer.initCloudChannel(this);
 ```
