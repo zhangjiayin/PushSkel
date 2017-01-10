@@ -1,5 +1,6 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 //http://www.cnblogs.com/qianxudetianxia/p/4322331.html
+//http://www.cnblogs.com/qianxudetianxia/p/4322331.html
 //http://www.flysnow.org/2015/03/30/manage-your-android-project-with-gradle.html
 buildscript {
     repositories {

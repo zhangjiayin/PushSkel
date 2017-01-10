@@ -37,4 +37,3 @@ native <methods>;
 -dontwarn anet.**
 -dontwarn org.android.spdy.**
 -dontwarn org.android.agoo.**
-
