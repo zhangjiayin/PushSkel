@@ -1,4 +1,4 @@
-package com.a00rz.push;
+package com.github.aliuyun.push;
 
 import org.junit.Test;
 

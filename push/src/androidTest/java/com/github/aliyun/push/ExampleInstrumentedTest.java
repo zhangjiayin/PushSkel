@@ -1,4 +1,4 @@
-package com.a00rz.pushskel;
+package com.github.aliyun.push;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.a00rz.pushskel", appContext.getPackageName());
+        assertEquals("com.github.push.test", appContext.getPackageName());
     }
 }

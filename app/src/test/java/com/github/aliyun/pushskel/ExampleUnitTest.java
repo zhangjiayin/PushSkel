@@ -1,4 +1,4 @@
-package com.a00rz.pushskel;
+package com.github.aliyun.pushskel;
 
 import org.junit.Test;
 

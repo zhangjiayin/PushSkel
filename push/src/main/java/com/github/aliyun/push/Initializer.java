@@ -1,4 +1,4 @@
-package com.a00rz.push;
+package com.github.aliyun.push;
 
 import android.content.Context;
 import android.util.Log;
